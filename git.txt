@@ -1,0 +1,17 @@
+What is Git?
+Git is a version control system.
+It helps you track changes to your files and collaborate with other people on projects.
+
+Imagine you are writing a document. Every time you make changes, Git can save a snapshot of the document at that moment.
+If you make a mistake, you can go back to an earlier version easily.
+
+It’s mostly used for software development, but you can use Git to track changes in any set of files (even text files, images, etc.).
+
+Why is Git Important?
+Keeps history of every change you make.
+
+Collaborates with many people without overwriting each other's work.
+
+Backups your work safely.
+
+Branching: You can create separate branches to try new ideas without affecting your main work
